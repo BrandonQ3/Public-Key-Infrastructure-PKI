@@ -29,5 +29,6 @@ Verification of identity can be onerous and time consuming and often full verifi
 * Class 1: Certificates easily acquired by verifying an email address.
 * Class 2: Requires additional personal information beyond an email address to be issued.
 * Class 3: Checks upon the requestor’s identity must be carried out before certification at level 3.
-* Class 4: Rigorous checks carried out. Level 4 is generally used by large financial institutions and governments.
+* Class 4: Rigorous checks carried out. 
+Level 4 is generally used by large financial institutions and governments.
 Clearly class 4 requires more effort to attain and the greater difficulty in attaining one and rigour of the checks confers greater confidence in the holder of a class 4 certificate than of a class 1. This is why class 4 certificate holders are trusted with financial transactions whereas class 1 holders will only be trusted to send emails and class 2 to serve websites.
