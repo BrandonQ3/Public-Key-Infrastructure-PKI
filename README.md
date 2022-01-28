@@ -4,14 +4,14 @@
  ## Topography 
 ![Topography PKI](https://user-images.githubusercontent.com/84944319/151466372-ee4d6c9b-b3dc-4d30-985e-280b5c71bfc2.jpg)
 
-## How PKI relates to Public Key cryptography
+## How PKI Relates To Public Key Cryptography
 Public key infrastructure is built to facilitate effective use of public key cryptography.
 
 In public key cryptography, the (public) encryption and (private) decryption keys differ. The public keys are published and are used for encrypting messages so that only the holder of the private decryption key is able to decrypt and read the messages. Public key infrastructure acts to ensure that the published public keys are bound to authenticated parties who hold the relevant decryption key and therefore PKI ensures that nefarious keys or questionable entities may be identified as such (by their lack of certification).
 
 Public Key Infrastructure enables confidence that the public key found for any entity does indeed belong to that entity and not an attacker. This trust that messages, information and data will reach the intended recipient (and only said recipient) safely is necessary for asymmetric cryptosystems to be used on public networks.
 
-## PKI in everyday use
+## PKI In Everyday Use
 The role of PKI is most prominent when looking at websites and SSL certificates which are used to prove ownership of a private key as part of the HTTPS protocol for secure web browsing.
 
 PKI is important for web browsing, data sharing in the internet of things (IoT), financial transaction verification, blockchain infrastructure for cryptocurrencies and bootstrapping secure messaging systems - as all of these applications require trust between the parties that they are sharing data with the intended party and can therefore expect that their website request / money / sensitive data / message will end up in the right place.
