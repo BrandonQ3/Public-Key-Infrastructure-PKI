@@ -24,3 +24,10 @@ The management system by which certificates are published, suspended, renewed an
 The private keys of users of the PKI are stored offline and only linked to the PKI when necessary. This enables clients to avoid keeping their private keys online where they are vulnerable to theft. Separating them from the network on different hardware which itself is encrypted enables greater security and limited exposure to risk. This notion has been expanded in the world of cryptocurrencies, where cold or offline storage is preferred over hot wallets which are always online, after several high profile thefts of various cryptocurrencies.
 
 ## The Certificate Class System
+Verification of identity can be onerous and time consuming and often full verification is not needed for exchanging emails as what is desired is the ability to avoid fraudulent emails and imposters. However, some cases such as government communications will require heavy vetting and the time and expense of this is justified when dealing with national secrets. The need for differing levels of authentication has been solved through a certification leveling system. The typical levels are as below.
+
+* Class 1: Certificates easily acquired by verifying an email address.
+* Class 2: Requires additional personal information beyond an email address to be issued.
+* Class 3: Checks upon the requestor’s identity must be carried out before certification at level 3.
+* Class 4: Rigorous checks carried out. Level 4 is generally used by large financial institutions and governments.
+Clearly class 4 requires more effort to attain and the greater difficulty in attaining one and rigour of the checks confers greater confidence in the holder of a class 4 certificate than of a class 1. This is why class 4 certificate holders are trusted with financial transactions whereas class 1 holders will only be trusted to send emails and class 2 to serve websites.
