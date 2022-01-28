@@ -2,7 +2,7 @@
  System for the creation, storage, and distribution of digital certificates which are used to verify that a particular public key belongs to a certain entity.
  
  ## Topography 
-![PKIT](https://user-images.githubusercontent.com/84944319/151465190-8dfaff14-6918-4869-b9f2-23384e27683f.jpg)
+![Topography PKI](https://user-images.githubusercontent.com/84944319/151466372-ee4d6c9b-b3dc-4d30-985e-280b5c71bfc2.jpg)
 
 ## How PKI relates to Public Key cryptography
 Public key infrastructure is built to facilitate effective use of public key cryptography.
